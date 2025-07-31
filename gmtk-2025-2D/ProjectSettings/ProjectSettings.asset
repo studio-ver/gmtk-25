@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 68c839642e0deab4abd3d4c0254d0b00
+  productGUID: b8f72c4ccd93b944e950a329df46b5cc
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: gmtk25
+  productName: gmtk-2025-2D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -551,6 +551,9 @@ PlayerSettings:
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000
+  - serializedVersion: 3
+    m_BuildTarget: WebGL
+    m_Formats: 05000000
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -852,14 +855,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: gmtk25
+  metroPackageName: gmtk-2025-2D
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: gmtk25
+  metroApplicationDescription: gmtk-2025-2D
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -930,10 +933,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 690e6167-f126-41c1-b10e-6c73441aa3e0
+  cloudProjectId: 6d988cba-4ca8-45d4-a82b-27fac52324fe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: gmtk25 2025-07-30_20-01-43
+  projectName: gmtk-2025-2D
   organizationId: jamjes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
